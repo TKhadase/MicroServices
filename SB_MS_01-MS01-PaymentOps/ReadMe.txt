@@ -3,4 +3,4 @@ http://localhost:8761
 
 Run this project as Spring Boot Application refresh the Eureka server console
 Check service instance is updated with this microservice or not and test the service in using below url:
-http://localhost:8989
+http://localhost:8989/payments/start
