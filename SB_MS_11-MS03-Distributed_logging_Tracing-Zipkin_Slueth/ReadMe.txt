@@ -13,4 +13,4 @@ now open zipkin server console using below url:
 http://localhost:9411/zipkin
 
 In console, Click RUN QUERY button, and select any request request and click SHOW button
-here traceId, SpanID can be found and track in logs for microserivice communication flow tracing 
+here traceId, SpanID can be found and track in logs for microserivice communication flow tracing.
