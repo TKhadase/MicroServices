@@ -8,6 +8,6 @@ Check service instance is updated with this microservice or not and test the ser
 http://localhost:8990/orders/start 
 and check response message by calling service again and again.
 
-Run SB_MS-12-API_GATE_WAY-ZUUL as Spring Boot Application and check Eureka server console
+Run SB_MS_12-API_GATE_WAY-ZUUL as Spring Boot Application and check Eureka server console
 and test the GATE-Way Server at below url:
 http://localhost:9222/Tushar-api/orders/start/
